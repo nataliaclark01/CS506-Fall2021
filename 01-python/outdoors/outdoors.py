@@ -1,10 +1,10 @@
 from .lake import draw_lake
 from .park import draw_park
-from .tree import add_trees
+from .tree import draw_tree
 
 def draw_outdoors():
-    add_trees()
+    draw_tree()
     draw_lake()
     draw_park()
-    add_trees()
+    draw_tree()
     return

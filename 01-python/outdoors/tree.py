@@ -1,6 +1,6 @@
 ## adding a tree to the outdoors
 
-def add_trees():
+def add_tree():
     
     
           
